@@ -1,0 +1,6 @@
+{
+  "name": "mrt-twitter",
+  "description": "Server-side Twitter API client",
+  "version": "0.1.0",
+  "packages": {}
+}
