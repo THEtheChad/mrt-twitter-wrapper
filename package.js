@@ -1,9 +1,9 @@
 Package.describe({
-  summary: 'Twitter API Client'
+  summary: 'Server side nodejs twit wrapper'
 });
 
 Npm.depends({
-	twit: '1.1.9'
+  twit: '1.1.9'
 });
 
 Package.on_use(function(api){
